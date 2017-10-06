@@ -1,0 +1,273 @@
+{
+   "control":null,
+   "interventions":[
+      {
+         "code":null,
+         "description":"Drug {Each Containing: Grape Seed Extract100 mg +...}\n1 capsule twice daily for 2 months",
+         "intervention_type":"Drug",
+         "arm_group":"Grape Seed Extract",
+         "administration":null,
+         "name":"Grape Seed Extract (Vitagrape)",
+         "size":null
+      },
+      {
+         "code":null,	
+         "description":"Placebo {Each Containing: Gelatin 17mg + Cellulose Microcrystalline (Avicel) 67 mg + Dicalcium Phosphate 216mg}\n1 capsule twice daily for 2 months",
+         "intervention_type":"Drug",
+         "arm_group":"Placebo",
+         "administration":null,
+         "name":"Placebo of Grape Seed Extract",
+         "size":null
+      }
+   ],
+   "updated_at":"2009-05-20T00:00:00.000Z",
+   "outcomes":[
+      {
+         "description":null,
+         "time_frame":"8 weeks -{45 days wash out, crossed }- 8 weeks after crossed",
+         "measure":"OX-LDL",
+         "safety_issue":null,
+         "outcome_type":"primary"
+      },
+      {
+         "description":null,
+         "time_frame":"8 weeks -{45 days wash out, crossed }- 8 weeks after crossed",
+         "measure":"LDL",
+         "safety_issue":null,
+         "outcome_type":"secondary"
+      },
+      {
+         "description":null,
+         "time_frame":"8 weeks -{45 days wash out, crossed }- 8 weeks after crossed",
+         "measure":"HDL",
+         "safety_issue":null,
+         "outcome_type":"secondary"
+      },
+      {
+         "description":null,
+         "time_frame":"8 weeks -{45 days wash out, crossed }- 8 weeks after crossed",
+         "measure":"Blood Pressure",
+         "safety_issue":null,
+         "outcome_type":"secondary"
+      },
+      {
+         "description":null,
+         "time_frame":"8 weeks -{45 days wash out, crossed }- 8 weeks after crossed",
+         "measure":"Triglyceride",
+         "safety_issue":null,
+         "outcome_type":"secondary"
+      },
+      {
+         "description":null,
+         "time_frame":"8 weeks -{45 days wash out, crossed }- 8 weeks after crossed",
+         "measure":"Total Cholesterol",
+         "safety_issue":null,
+         "outcome_type":"secondary"
+      },
+      {
+         "description":null,
+         "time_frame":"8 weeks -{45 days wash out, crossed }- 8 weeks after crossed",
+         "measure":"Body Mass Index",
+         "safety_issue":null,
+         "outcome_type":"secondary"
+      },
+      {
+         "description":null,
+         "time_frame":"8 weeks- {45 days wash out, crossed }- 8 weeks after crossed",
+         "measure":"LDL/HDL",
+         "safety_issue":null,
+         "outcome_type":"secondary"
+      }
+   ],
+   "inclusion_criteria":"\n\n          1. Triglyceride > 150 mg/dl\n\n          2. Total Cholesterol > 200 mg/dl\n\n        ",
+   "id":400017,
+   "diseases":[
+      {
+         "id":518,
+         "name":"Hyperlipidemias"
+      }
+   ],
+   "max_age":23360,
+   "phases":[
+      "Phase 2",
+      "Phase 3"
+   ],
+   "title":"Randomized, Cross-Over, Double Blind, Placebo-Controlled Study of Grape Seed Extract in Treating Patients With Mild Hyperlipidemia",
+   "ethics_committee_name":"",
+   "ethics_committee_status":null,
+   "data_monitoring_committee":true,
+   "enrollment_start_date":null,
+   "randomization":null,
+   "samples":null,
+   "blinding":null,
+   "start_date":"2008-07-01",
+   "publications":[
+      {
+         "url":null,
+         "author":"Bagchi D, Bagchi M, Stohs SJ, Das DK, Ray SD, Kuszynski CA, Joshi SS, Pruess HG",
+         "summary":null,
+         "title":" Free radicals and grape seed proanthocyanidin extract: importance in human health and disease prevention"
+      },
+      {
+         "url":null,
+         "author":"Bagchi D, Sen CK, Ray SD, Das DK, Bagchi M, Preuss HG, Vinson JA",
+         "summary":null,
+         "title":" Molecular mechanisms of cardioprotection by a novel grape seed proanthocyanidin extract"
+      },
+      {
+         "url":null,
+         "author":"Pataki T, Bak I, Kovacs P, Bagchi D, Das DK, Tosaki A",
+         "summary":null,
+         "title":" Grape seed proanthocyanidins improved cardiac recovery during reperfusion after ischemia in isolated rat hearts"
+      },
+      {
+         "url":null,
+         "author":"Joshi SS, Kuszynski CA, Bagchi D",
+         "summary":null,
+         "title":" The cellular and molecular basis of health benefits of grape seed proanthocyanidin extract"
+      },
+      {
+         "url":null,
+         "author":"Bagchi D, Garg A, Krohn RL, Bagchi M, Bagchi DJ, Balmoori J, Stohs SJ",
+         "summary":null,
+         "title":" Protective effects of grape seed proanthocyanidins and selected antioxidants against TPA-induced hepatic and brain lipid peroxidation and DNA fragmentation, and peritoneal macrophage activation in mice"
+      },
+      {
+         "url":null,
+         "author":"Yamakoshi J, Kataoka S, Koga T, Ariga T",
+         "summary":null,
+         "title":" Proanthocyanidin-rich extract from grape seeds attenuates the development of aortic atherosclerosis in cholesterol-fed rabbits"
+      },
+      {
+         "url":null,
+         "author":"Zhang FL, Gao HQ, Wu JM, Ma YB, You BA, Li BY, Xuan JH",
+         "summary":null,
+         "title":" Selective inhibition by grape seed proanthocyanidin extracts of cell adhesion molecule expression induced by advanced glycation end products in endothelial cells"
+      },
+      {
+         "url":null,
+         "author":"Vigna GB, Costantini F, Aldini G, Carini M, Catapano A, Schena F, Tangerini A, Zanca R, Bombardelli E, Morazzoni P, Mezzetti A, Fellin R, Maffei Facino R",
+         "summary":null,
+         "title":" Effect of a standardized grape seed extract on low-density lipoprotein susceptibility to oxidation in heavy smokers"
+      }
+   ],
+   "status":"completed",
+   "description":"",
+   "end_date":null,
+   "study_type":"interventional",
+   "sponsors":[
+      {
+         "category":"Other",
+         "name":"Shahid Beheshti University of Medical Sciences",
+         "phone":null,
+         "address":"Velenjak, near Talighani hospital, 3rd street, Tehran,Tehran, Iran PO box: 14397-65461, Iran, Islamic Republic Of",
+         "type":"Funding",
+         "email":null
+      },
+      {
+         "category":"Other",
+         "name":"Shahid Beheshti University of Medical Sciences",
+         "phone":null,
+         "address":"Velenjak, near Talighani hospital, 3rd street, Tehran,Tehran, Iran PO box: 14397-65461, Iran, Islamic Republic Of",
+         "type":"Primary",
+         "email":null
+      },
+      {
+         "category":"Other",
+         "name":"Tabriz University",
+         "phone":null,
+         "address":null,
+         "type":"Secondary",
+         "email":null
+      }
+   ],
+   "min_age":7665,
+   "allocation":null,
+   "purpose":null,
+   "ethics_committee_approval_date":null,
+   "enrollment_end_date":null,
+   "endpoint":null,
+   "study_design":null,
+   "name":"The Efficacy of Red Grape Seed Extract on Lipid Profile and Oxidized Low-Density Lipoprotein (OX-LDL)",
+   "intervention_model":null,
+   "url":"https://mytomorrows.com/trials/400017/the-efficacy-of-red-grape-seed-extract-on-lipid-profile-and-oxidized-low-density-lipoprotein-ox-ldl",
+   "gender":"all",
+   "enrollment":55,
+   "countries":[
+      "IR"
+   ],
+   "summary":"\n      Antioxidants are potent scavengers of free radicals and serve as inhibitors of neoplastic\n      processes. A large number of synthetic and natural antioxidants are known to induce\n      beneficial effects on human health and disease prevention. Cardioprotective ability of grape\n      seed extract polyphenols (GSEP) was studied in animals and humans. It has been suggested\n      that grape seed proanthocyanidins have cardioprotective effects against reperfusion-induced\n      injury of free radicals after ischemia. In another study, it is suggested that\n      proanthocyanidins, the major polyphenols in red wine, might trap reactive oxygen species in\n      aqueous series such as plasma and interstitial fluid of the arterial wall; thereby\n      inhibiting oxidation of low-density lipoprotein (LDL) and showing an antiatherosclerotic\n      activity. The only human model study designed to evaluate the effect of a standardized\n      formulation of a GSEP (leucoselect-phytosome [LP]) on the susceptibility of LDL to oxidation\n      in a group of heavy smokers, revealed that the antioxidant potential of GSEP may be\n      effective in oxidative stress (smoking); however more investigational data are needed before\n      wider use in clinical settings. Based on these observations, the investigators decided to\n      evaluate the effect of GSEP in reducing OX-LDL in patients diagnosed with mild\n      hyperlipidemia.\n    ",
+   "healthy_volunteers":false,
+   "contacts":[
+      {
+         "name":"Maryam Keshtkar-Jahromi, MD,",
+         "phone":null,
+         "affiliation":"Shahid Beheshti University (MC)",
+         "address":null,
+         "type":"Overall Official",
+         "email":null
+      },
+      {
+         "name":"Hassan Argani, MD",
+         "phone":null,
+         "affiliation":"Shahid Beheshti University (MC)",
+         "address":null,
+         "type":"Overall Official",
+         "email":null
+      },
+      {
+         "name":"Abbas Delazar, PhD",
+         "phone":null,
+         "affiliation":"Tabriz University",
+         "address":null,
+         "type":"Overall Official",
+         "email":null
+      },
+      {
+         "name":"Ali Eskandari, MD",
+         "phone":null,
+         "affiliation":"Shahid Beheshti University (MC)",
+         "address":null,
+         "type":"Overall Official",
+         "email":null
+      },
+      {
+         "name":"Sharareh Gholamin, MD",
+         "phone":null,
+         "affiliation":"Shahid Beheshti University (MC)",
+         "address":null,
+         "type":"Overall Official",
+         "email":null
+      },
+      {
+         "name":"Seyed Mostafa Razavi, MD",
+         "phone":null,
+         "affiliation":"Shahid Beheshti University (MC)",
+         "address":null,
+         "type":"Overall Official",
+         "email":null
+      }
+   ],
+   "exclusion_criteria":"\n\n          1. Severe hyperlipidemia (Triglyceride > 300 mg/dl,Total Cholesterol > 250 mg/dl)\n\n          2. Usage of antilipid drugs\n\n          3. Herbivore Diet\n\n          4. Alcoholism\n\n          5. Heart failure\n\n          6. Known cases of any malignancy\n\n          7. BMI > 30 kg/M2\n\n          8. Chronic Hepatic Diseases\n\n          9. Smoking\n\n         10. Chronic Renal Failure\n      ",
+   "registries":[
+      {
+         "attribution":"required",
+         "name":"NCT",
+         "url":"https://clinicaltrials.gov/ct2/show/nct00713167",
+         "modified_at":"2009-05-20T00:00:00.000Z",
+         "registered_at":"2017-02-03T00:00:00.000Z",
+         "primary":true,
+         "id":"nct00713167"
+      },
+      {
+         "attribution":"required",
+         "name":"N/A",
+         "url":null,
+         "modified_at":null,
+         "registered_at":null,
+         "primary":false,
+         "id":"sbmu 87-01-106-5694"
+      }
+   ],
+   "created_at":"2008-07-08T00:00:00.000Z"
+}
